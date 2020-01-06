@@ -1,6 +1,6 @@
 
 
-$phrase = "It's-a me, Mario!\n"
+phrase = "It's-a me, Mario!\n"
 def mario
  
   puts phrase
