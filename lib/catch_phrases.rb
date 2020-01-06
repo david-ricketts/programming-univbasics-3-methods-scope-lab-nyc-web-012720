@@ -2,7 +2,7 @@
 
 
 def mario
-  phrase = "It's-a me, Mario!\n"
+ $phrase = "It's-a me, Mario!\n"
   puts phrase
 end
 
@@ -16,5 +16,5 @@ def link
 end
 
 def any_phrase(phrase)
-  
+  puts phrase
 end
